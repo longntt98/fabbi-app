@@ -1,0 +1,4 @@
+reactjs
+react-router-dom
+react-redux
+redux
